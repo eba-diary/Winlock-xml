@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter from Helen Winlock to Mother, Maine</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p><address rend="printed">
+            <addrLine>Pigeon Hill</addrLine>
+         </address></p>
+         <p><address rend="printed">
+            <addrLine>North Haven, Maine</addrLine>
+         </address></p>
+         <p>Dearest <persName ref="#Chandler_Mrs">mother</persName></p>, 
+            <p>When I think what I have to tell
+            you it nearly makes me cry but I am 
+            so happy that I manage to refrain and 
+            get sort of hysterical in consequence. The 
+            point of it is that I am engaged to <persName ref="#Winlock_Herbert">Herbert</persName>
+            and there is no doubt about it that we 
+            each can make the other bubble with
+            delight. I hope you like him. I think 
+            he has changed a good deal in the 
+            last four years so he probably has 
+            a lot since he went to college </p> 
+         <pb n="2"/> 
+            <p>any way we seem to fit in together very 
+            handily and the sun shines every day 
+            even in cloudy weather. It makes me
+            feel benign and delighted with everything 
+            and please like him for my sake 
+            even if you don't for his. However
+            I have no reason to believe you dont 
+            except that mother said you had
+            picked out Paul who doubtless would 
+            have done as well had the spark 
+            been kindled but there's the rut. 
+            Any way I am contented so is <persName ref="#Winlock_Herbert">Herbert</persName>
+            which is the chief thing. Don't</p> 
+            <pb n="3"/> sideways 
+            <p>tell any body till you see us as we have been waiting 
+            to have it all out with you first. But before I finish 
+            I must say that it changes everything from gloom 
+            to glamor and I am what is known as radiant 
+            and I love everybody and you one of the most. That is the hard part of it you
+            just coming back after so long a time away and I on the point of leaving 
+            but while we are together lets make the most of it. 
+            It will be the best thing possible to have you back 
+            again and the family are counting the moments.</p>
+         <pb n="4"/> 
+            <p>Its a big thing, what I am going to do 
+            and I hadn't got quite settled in
+            my mind about it yet except its the 
+            only thing for me.</p> 
+            <p>I am writing this at the Bruditchs. Mea sends her best. Mrs B. has had
+            the ceiling lowered in this room so as
+            not to offend your exquisite eyes for 
+            proportion and we all will be waiting on
+            the wharf to greet you. 1000 kisses 
+            from <persName ref="@#Winlock_Helen">Helen</persName> your lovingest sister.
+            
+               <date when="1912-08-17">Aug 17</date>.</p>
+      </body>
+  </text>
+</TEI>
