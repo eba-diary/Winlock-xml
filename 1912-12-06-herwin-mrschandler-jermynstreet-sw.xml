@@ -6,15 +6,99 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Title</title>
+                <title>Letter dated 12-06-1912 addressed to Mrs Chandler</title>
+                <author>
+                    <persName ref="#Winlock_Herbert">Herbert Winlock</persName>
+                </author>
+                <editor>
+                    <persName ref="#SLK">Dr. Sarah L. Ketchley</persName>
+                </editor>
+                <respStmt>
+                    <resp>EBA Interns</resp>
+                    <persName ref="#RR">Rachel Rodney</persName>
+                    <persName ref="#SM">Sesha Manchirau</persName>
+                    <persName ref="#CR">Connor Rafferty</persName>
+                </respStmt>
             </titleStmt>
             <publicationStmt>
-                <p>Publication Information</p>
+                <publisher>The Emma B. Andrews Diary Project</publisher>
+                <address>
+                    <addrLine>University of Washington, Seattle WA 98195 U.S.A.</addrLine>
+                </address>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc/4.0/">This work is
+                        licensed under a Creative Commons Attribution-NonCommercial 4.0
+                        International License."></licence>
+                </availability>
+                <date when="2018"> 2011-2018 </date>
+                <distributor>The Emma B. Andrews Diary Project</distributor>
             </publicationStmt>
+            <notesStmt>
+                <note>1912-08-17</note>
+            </notesStmt>
             <sourceDesc>
-                <p>Information about the source</p>
+                <bibl>
+                    <title>Helen Winlock Archive</title>
+                    <author>
+                        <persName ref="#Winlock_Helen">Helen Winlock</persName>
+                    </author>
+                    <orgName ref="#APS">Massachussets Historical Society</orgName>
+                    <address>
+                        <addrLine>Boston,Massachussetts</addrLine>
+                    </address>
+                </bibl>
             </sourceDesc>
         </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>
+                    <persName ref="#Andrews_Emma_B">Emma B. Andrews</persName> is best remembered
+                    for her association with the millionaire lawyer turned archaeologist/art and
+                    antiquities collector, <persName ref="#Davis_Theodore">Theodore M.
+                        Davis</persName>. Traveling to <placeName ref="#Egypt">Egypt</placeName>
+                    with him between 1889 and 1912, she kept detailed journals of these voyages
+                    along the <placeName ref="#Nile_River">Nile</placeName>, including his important
+                    yet under-reported excavations of 20 significant tombs in the <placeName
+                        ref="#Valley_of_the_Kings">Valley of the Kings</placeName>. <persName
+                            ref="#Andrews_Emma_B">Emma</persName> provides a vital commentary on the
+                    archaeology and pioneering Egyptologists of the time. She paints a revealing
+                    picture of the lives of the colonial gentry and the cultural and scientific
+                    literati in <placeName ref="#Egypt">Egypt</placeName> at the dawn of the
+                    twentieth century. To date, her diaries are unpublished; analysis of the
+                    contents of 19 volumes will afford scholars and a general audience information
+                    about an important historical resource for the first time. Since its inception
+                    in 2010, the scope of our project has broadened to include the transcription and
+                    digitization of a wide range of primary historical material from the 'Golden
+                    Age' of Egyptian archaeology detailed in the Research section of this website.
+                    The Emma B. Andrews Diary Project is one of the founding partners of Newbook
+                    Digital Texts. We are proud to offer undergraduate and graduate Digital
+                    Humanities education and internships.</p>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <particDesc>
+                <listPerson>
+                    <person role="editor" sex="F">
+                        <persName ref="#SLK">Dr. Sarah L. Ketchley</persName>
+                        <affiliation>University of Washington</affiliation>
+                        <occupation>Affiliate Instructor</occupation>
+                        <listEvent>
+                            <event>
+                                <p>Project Director 2010-present</p>
+                            </event>
+                        </listEvent>
+                    </person>
+                    <!-- Repeat as necessary adding new team member -->
+                    
+                </listPerson>
+            </particDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2018-03-15" who="#SLK">
+                <p>#SLK updated TEI Header.</p>
+                <!-- Repeat as necessary, most recent at the top -->
+            </change>
+        </revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -70,7 +154,7 @@
                 had lunch with <persName ref="#Harcourt_Smith_Sir_Cecil">Sir Cecil</persName> and
                     <persName ref="#Harcourt_Smith_Lady">Lady Harcourt-Smith</persName> in
                     <placeName ref="#South_Kensington">South Kensington</placeName> and had tea at
-                the <placeName ref="#Lyceum_Club">Lyceum Club</placeName> with a great aunt of my
+                the <orgName ref="#Lyceum_Club">Lyceum Club</orgName> with a great aunt of my
                 Sister <persName ref="#Helen_Sister">Helen</persName>'s. We bought saddles, our
                 boots were finished, <persName ref="#Winlock_Helen">Helen</persName> tried on her
                 riding habits, our wicker straw chairs and <persName ref="#Chandler_Ethel"
